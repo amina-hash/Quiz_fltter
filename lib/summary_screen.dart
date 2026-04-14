@@ -14,7 +14,7 @@ class SummaryScreen extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Text(
-              "Quiz Finished!",
+              "Quiz Finished! thanks",
               style: TextStyle(fontSize: 30, fontWeight: FontWeight.bold),
             ),
 
